@@ -1,10 +1,11 @@
 # GORDON SHOWMAX
 ## Description
-John Movie Theatre is an application for buying movie tickets
+This repository contains my submission for week3 code challenge.
+Flatdango Theatre is an application for buying movie tickets
 
   You Can access this site using the link below
 
-                 https://slonetech.github.io/phase1-week3-codechallenge/
+                 
 ## Running The Application
 To run this application on your machine:
 
