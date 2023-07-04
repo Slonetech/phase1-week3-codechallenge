@@ -4,7 +4,7 @@ John Movie Theatre is an application for buying movie tickets
 
   You Can access this site using the link below
 
-                https://john-justic.github.io/week3-code-challenge/
+                 https://slonetech.github.io/phase1-week3-codechallenge/
 ## Running The Application
 To run this application on your machine:
 
