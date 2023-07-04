@@ -5,7 +5,7 @@ Flatdango Theatre is an application for buying movie tickets
 
   You Can access this site using the link below
 
-                 
+           
 ## Running The Application
 To run this application on your machine:
 
