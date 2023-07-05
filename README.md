@@ -1,7 +1,7 @@
 # FLATDANGO
 ## Description
 This repository contains my submission for week3 code challenge.
-Flatdango Theatre is an application for buying movie tickets
+Flatdango Theatre is an application for buying movie tickets where the number of tickets decreases as they are being bought . the tickets contain the title of the movie,runtime and a short description
 
   ## Table of content
 - Installation Requirements
@@ -17,7 +17,13 @@ Flatdango Theatre is an application for buying movie tickets
   ## install process
   *git clone the repository to your local machine using the command*
 
+  $ 'git clone' https://github.com/Slonetech/phase1-week3-codechallenge
+
+
 *Navigate to the project using the command cd*
+
+$ cd 'phase1-week3-codechallenge'
+
 
 *Install the necessary dependencies required*
 
@@ -63,5 +69,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Author info
-- Slack Profile: Gordon Kengere
+- m
+Mattermost Profile: Gordon Kengere
 - Linked:Gordon Kengere
